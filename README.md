@@ -1,5 +1,3 @@
----
-
 ````markdown
 # Docker Networking and Security
 

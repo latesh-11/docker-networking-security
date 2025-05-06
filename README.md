@@ -1,3 +1,5 @@
+---
+
 ````markdown
 # Docker Networking and Security
 
@@ -143,3 +145,11 @@ Add in `/etc/docker/daemon.json`:
 ```
 
 ---
+
+
+```
+
+---
+
+Let me know if you’d like a `.gitignore`, LICENSE file, or GitHub repository setup instructions too.
+```
